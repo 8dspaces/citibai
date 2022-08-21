@@ -1,0 +1,14 @@
+.coverage
+MANIFEST
+coverage.xml
+nosetests.xml
+*.pyc
+*.swp
+*.egg
+.vscode/
+
+
+# in case you work with IntelliJ/PyCharm
+.idea
+*.iml
+.python-version

@@ -1,0 +1,26 @@
+imutils
+flask
+fastapi
+pyttsx3
+opencv-python
+numpy
+uvicorn
+serial
+pathlib
+loguru
+gTTS
+matplotlib
+scikit-learn
+
+## 树莓派单独安装
+#mediapipe
+#tensorflow
+#tf-nightly
+#pyaudio
+#pydub
+
+#opencv-contrib-python  ## detect people, not use yet
+
+## debug in none pi system
+# pip install git+https://github.com/nosix/raspberry-gpio-emulator/
+#RPi~=0.3.1
